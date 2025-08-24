@@ -1,2 +1,0 @@
-# Pixelpulse
-Blog site sample
